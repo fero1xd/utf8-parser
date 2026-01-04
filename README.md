@@ -2,7 +2,7 @@ This is a really simple utf-8 parser written in C.
 
 ### Sample Input
 
-```file=msg.txt
+```filename=msg.txt
 こaプレイ😄
 ```
 
